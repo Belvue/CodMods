@@ -22,7 +22,7 @@
     "mongodb": "^3.1.13",
     "morgan": "^1.9.1",
     "mysql": "^2.16.0",
-    "openid-client": "^2.4.5",
+    "openid-client": "^5.4.0",
     "passport": "^0.4.0",
     "passport-openid": "^0.4.0",
     "passport-steam": "^1.0.10",
